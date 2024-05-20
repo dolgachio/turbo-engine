@@ -1,0 +1,3 @@
+﻿  olcEngine3d.cpp
+C:\projects\turbo-engine\olcEngine3d\olcEngine3d\olcEngine3d.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  olcEngine3d.vcxproj -> C:\projects\turbo-engine\olcEngine3d\x64\Debug\olcEngine3d.exe
